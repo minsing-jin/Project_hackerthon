@@ -69,3 +69,6 @@
 - 실시간 위치정보 시스템을 구축/ 달린경로를 기록하여 부대별, 사단별 합산, 랭킹화하기
 - 앱을 통해서 달린 경로 체크, 얼마나 늘었는지등의 기록들을 visualizing하고 현재의 뜀걸음 속도, 시간, 소비 칼로리등 자기 객관화에 필요한 솔루션 제공
 
+# Contact
+- minsing-jin: minsung0722@khu.ac.kr
+- Project Link: https://github.com/minsing-jin/Project_hackerthon
